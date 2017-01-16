@@ -1,0 +1,5 @@
+C:\Users\purple-chang\Documents\Visual Studio 2008\Projects\SIV.6.0.2\SIV.6.0.2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\purple-chang\Documents\Visual Studio 2008\Projects\SIV.6.0.2\SIV.6.0.2\bin\SIV.6.0.2.dll
+C:\Users\purple-chang\Documents\Visual Studio 2008\Projects\SIV.6.0.2\SIV.6.0.2\bin\SIV.6.0.2.pdb
+C:\Users\purple-chang\Documents\Visual Studio 2008\Projects\SIV.6.0.2\SIV.6.0.2\obj\Debug\SIV.6.0.2.dll
+C:\Users\purple-chang\Documents\Visual Studio 2008\Projects\SIV.6.0.2\SIV.6.0.2\obj\Debug\SIV.6.0.2.pdb
